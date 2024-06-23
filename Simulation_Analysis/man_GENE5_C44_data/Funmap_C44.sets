@@ -1,0 +1,5 @@
+{'cs': {'L0': array([14]), 'L1': array([813])}, 'purity':     min_abs_corr  mean_abs_corr  median_abs_corr
+L1             1              1                1
+L0             1              1                1, 'cs_index': array([1, 0]), 'coverage': 1    0.993019
+0    0.997750
+dtype: float64, 'requested_coverage': 0.95}

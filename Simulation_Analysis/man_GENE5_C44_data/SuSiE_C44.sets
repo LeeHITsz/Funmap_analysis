@@ -1,0 +1,6 @@
+{'cs': {'L0': array([12, 14, 16]), 'L1': array([772, 773, 799, 800, 807, 813, 835, 842, 844, 845, 862, 871, 876,
+       879, 888, 903, 927])}, 'purity':     min_abs_corr  mean_abs_corr  median_abs_corr
+L0      0.995102       0.996090         0.995880
+L1      0.929833       0.984741         0.991935, 'cs_index': array([0, 1]), 'coverage': 0    0.953462
+1    0.952482
+dtype: float64, 'requested_coverage': 0.95}
