@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 
 
 labels = ['Funmap', 'CARMA', 'PAINTOR']
+
+"""
+The following values are from newGWAS_merge.py and predset_merge.py.
+"""
 data_HDL = np.array([[202, 198, 198],
                      [177, 431, 912]])
 

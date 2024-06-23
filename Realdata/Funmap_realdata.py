@@ -1,8 +1,8 @@
 import os
 import numpy as np
 import pandas as pd
-from Funmap import SUSIE
-from Funmap import FUNMAP
+from funmap import SUSIE
+from funmap import FUNMAP
 
 np.set_printoptions(threshold=1e8)
 
